@@ -1,4 +1,9 @@
 ---
 label: margherita
 hide_body: false
-fields: []
+fields:
+- name: pizza
+  type: text
+  config:
+    required: true
+  label: pizza
